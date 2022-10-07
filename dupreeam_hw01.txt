@@ -1,0 +1,12 @@
+1.mkdir .dotfiles
+2.ls -a
+3. cd .dotfiles
+4. pwd /acct/dupreeam/.dotfiles
+5. touch README.md
+6. vim README.md
+11. # My Dotfiles
+These are my dotfile configuration files for different software in Bash.
+## .vimrc
+This is my custom .cimrc configuration for Vim.
+## .bashrc
+This is my custom .bashrc configuration for Bash.
